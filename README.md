@@ -87,3 +87,7 @@ Total time cost: 3.981684923171997 seconds.
 ```
 
 ![Effect Demonstration](./resource/effect.png)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=DEVILENMO/Unsupervised-Defect-Detection-Project-Based-on-VAE-GAN-Architecture&type=Date)](https://www.star-history.com/#DEVILENMO/Unsupervised-Defect-Detection-Project-Based-on-VAE-GAN-Architecture&Date)
