@@ -52,7 +52,7 @@ if __name__ == '__main__':
 
     train_epochs = 60
 
-    model = VAEGANModelLoader(augmented_dataset, test_dataset, 10, './saved_model/VAE.pth',
-                              './saved_model/Discriminator.pth')
+    model = VAEGANModelLoader(augmented_dataset, test_dataset, 10, '/content/drive/MyDrive/MyColabUploads/VAE.pth',
+                              '/content/drive/MyDrive/MyColabUploads/Discriminator.pth')
     model.train(train_epochs, 5)
     model.test()
