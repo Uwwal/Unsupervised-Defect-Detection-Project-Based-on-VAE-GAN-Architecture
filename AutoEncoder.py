@@ -11,10 +11,10 @@ from ImagePreProcessing import *
 from ImageTools import *
 from ModelLoader import ModelLoader
 
-latent_dim = 256
+latent_dim = 196
 input_channel = 1
 # max_size = 1536
-max_size = 1792
+max_size = 1280
 
 
 class SELayer(nn.Module):
